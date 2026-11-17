@@ -1,0 +1,11 @@
+build/
+out/
+_dev/out/
+_dev/servertest/
+_dev/crash*/
+*.log
+.idea/
+.vscode/
+*.iml
+Thumbs.db
+.DS_Store
